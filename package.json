@@ -1,0 +1,17 @@
+{
+  "name": "hidden-from-hn",
+  "version": "0.1",
+  "description": "Outputs links that have been hidden from HN",
+  "author": "Ben Wasser <benwasser@gmail.com>",
+  "keywords": [
+    "hacker news",
+  ],
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  },
+  "preferGlobal": false,
+  "private": false,
+  "analyze": false,
+  "license": "MIT"
+}
